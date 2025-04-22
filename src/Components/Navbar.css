@@ -1,0 +1,21 @@
+.Logo{
+    display: flex;
+    gap: 10px;
+    flex: 2;
+}
+.actual-nav{
+    flex: 1; 
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    text-decoration: none;
+}
+
+.navb{
+    display: flex;
+    flex-direction: row;
+    background-color: bisque;
+    height: 50px;
+    align-items: center;
+    border-radius: 10px;
+}
